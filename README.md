@@ -5,7 +5,7 @@ This app is part of the projects from [React Nanodegree Program](https://www.uda
 
 ## How to Run
 
-To get started developing right away:
+To get started:
 
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
